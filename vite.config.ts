@@ -15,5 +15,5 @@ export default defineConfig({
     port: 4000, // 设置服务启动端口号
     open: true, // 设置服务启动时是否自动打开浏览器
   },
-  base: './'
+  base: '/vite-vue3-template'
 })
